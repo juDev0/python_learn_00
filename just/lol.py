@@ -1,0 +1,5 @@
+fr,lst=input("what is your first name and Last name \n").strip().title().split()
+print("\n",fr,lst)
+ok=input(f"\nwow your Firstname is {fr} \n and also your Surname name is {lst} right? \n")
+print(f"\nnice to meet you {fr} {lst}")
+print(f"its all right {fr} {lst}")
